@@ -1,6 +1,6 @@
 ---
 title: Recommendation Systems
-summary: Write about your project here...
+summary: 최고 조회수 60만회에 하하하
 tags:
   - ML
 date: 2022-01-01

@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Back-End
       tag: ML
-    - name: Computer Vision
+    - name: Front-End
       tag: CV
-    - name: NLP
+    - name: Youtube
       tag: NLP
 
 design:
