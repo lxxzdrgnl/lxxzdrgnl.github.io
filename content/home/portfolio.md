@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Back-End
-      tag: ML
+      tag: be
     - name: Front-End
-      tag: CV
+      tag: fe
     - name: Youtube
-      tag: NLP
+      tag: youtube
 
 design:
   columns: '1'

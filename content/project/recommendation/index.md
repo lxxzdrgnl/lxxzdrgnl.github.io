@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: 최고 조회수 60만회에 하하하
+title: RVC AI를 활용한 AI음성커버 유튜브 활동
+summary: RVC 모델 활용, 50만 조회수를 기록
 tags:
-  - ML
+  - youtube
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://www.youtube.com/watch?v=QxKxegbUzS4
 ---

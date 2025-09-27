@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
+title: 연락하기
 subtitle:
 
 content:
@@ -20,7 +20,7 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: pung4905@naver.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false

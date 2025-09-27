@@ -23,29 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+  - certificate_url: 
+    date_end: '2025-03-12'
+    date_start: '2024-06-12'
+    description: 'AI를 활용한 영상 기획 및 제작'
+    organization: 'uploads/sorisori.png'
+    organization_url: https://www.instagram.com/sorisori.ai/
+    title: 소리소리AI 영상 편집자
     url: ''
 
 design:

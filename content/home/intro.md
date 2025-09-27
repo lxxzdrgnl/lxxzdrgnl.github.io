@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 안녕하세요, 호기심을 실행으로 옮기는 개발자 이용재입니다. AI, 백엔드, 프론트엔드 등 분야를 가리지 않고 도전하며, 기술의 경계 없이 문제를 해결하는 것을 즐깁니다.
+{style="font-size: 1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+저의 [이력서](/about/)를 확인해보세요😍
