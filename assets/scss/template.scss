@@ -101,8 +101,8 @@ ul.network-icon .big-icon {
 .avatar {
   width: auto;
   height: auto;
-  max-width: 225px;
-  max-height: 225px;
+  max-width: 275px;
+  max-height: 275px;
 }
 
 // Prevent stretching on About page with narrow container
@@ -187,4 +187,9 @@ ul.network-icon .big-icon {
 
 .article-container .article-style {
   text-align: justify;
+}
+
+.skill-badges img {
+  display: inline-block;
+  margin: 0.2rem;
 }
