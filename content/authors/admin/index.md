@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: IT정보공학과
+  - course: IT정보공학과 재학
     institution: 전북대학교
     year: ''
 

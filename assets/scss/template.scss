@@ -123,23 +123,27 @@ ul.network-icon .big-icon {
 }
 
 .card-simple .img-hover-zoom {
-  height: 20.5rem; /* Keep user's height */
+  height: 20.5rem;
+  /* Keep user's height */
   overflow: hidden;
 }
 
 .card-simple .article-banner {
   object-fit: cover;
-  width: 100%; /* Corrected width */
+  width: 100%;
+  /* Corrected width */
   height: 100%;
 }
 
 .card-simple {
-  margin-bottom: 1rem; /* Keep user's margin */
+  margin-bottom: 1rem;
+  /* Keep user's margin */
 }
 
 @media (max-width: 768px) {
   .card-simple .img-hover-zoom {
-    height: 15rem; /* Adjust height for mobile */
+    height: 15rem;
+    /* Adjust height for mobile */
   }
 }
 
@@ -148,7 +152,7 @@ ul.network-icon .big-icon {
 }
 
 .card-simple .img-hover-zoom::after {
-  content: '\f0c1'; /* Font Awesome link icon */
+  content: '\f0c1';
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   position: absolute;
@@ -156,10 +160,9 @@ ul.network-icon .big-icon {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 40px;
+  font-size: 4rem;
   opacity: 0;
   transition: opacity 0.3s ease;
-  text-shadow: 0 0 8px rgba(0,0,0,0.5);
   z-index: 10;
 }
 
@@ -170,7 +173,7 @@ ul.network-icon .big-icon {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0, 0, 0, 0.4);
   opacity: 0;
   transition: opacity 0.3s ease;
   z-index: 9;
@@ -179,4 +182,8 @@ ul.network-icon .big-icon {
 .card-simple:hover .img-hover-zoom::after,
 .card-simple:hover .img-hover-zoom::before {
   opacity: 1;
+}
+
+.article-style {
+  text-align: justify;
 }
