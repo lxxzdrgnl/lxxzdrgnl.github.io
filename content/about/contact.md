@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: 연락하기
-subtitle:
+subtitle: ""
 
 content:
   # Automatically link email and phone or display as text?
@@ -18,8 +18,8 @@ content:
 
   # Location coordinates
   coordinates:
-    latitude: '35.8469'
-    longitude: '127.1293'
+    latitude: '35.8460286'
+    longitude: '127.1344631'
 
   # Email form provider
   form:

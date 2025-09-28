@@ -5,12 +5,12 @@
 # Default language
 ko:
   languageCode: ko
-
+  date_format: '2006년 1월'
 
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  date_format: 'January 2006'
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
