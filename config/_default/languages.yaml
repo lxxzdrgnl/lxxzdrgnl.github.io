@@ -5,12 +5,14 @@
 # Default language
 ko:
   languageCode: ko
-  date_format: '2006년 1월'
+  params:
+    date_format: '2006년 1월'
 
 en:
   languageCode: en-us
   contentDir: content/en
-  date_format: 'January 2006'
+  params:
+    date_format: 'January 2006'
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

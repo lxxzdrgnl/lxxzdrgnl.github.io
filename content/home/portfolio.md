@@ -32,7 +32,7 @@ content:
       tag: be
     - name: Front-End
       tag: fe
-    - name: Youtube
+    - name: AI
       tag: youtube
 
 design:
@@ -41,4 +41,5 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
+  date_format: 2006 Jan
 ---
