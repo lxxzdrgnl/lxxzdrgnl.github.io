@@ -16,6 +16,11 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
+  # Location coordinates
+  coordinates:
+    latitude: '35.8469'
+    longitude: '127.1293'
+
   # Email form provider
   form:
     provider: netlify
