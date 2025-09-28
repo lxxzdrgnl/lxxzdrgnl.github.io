@@ -7,6 +7,24 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: About
+    identifier: about
     weight: 20
+  - name: Overview
+    parent: about
+    url: about/
+    weight: 10
+  - name: Experience
+    parent: about
+    url: 'about/#experience'
+    weight: 20
+  - name: Accomplishments
+    parent: about
+    url: 'about/#accomplishments'
+    weight: 30
+  - name: Projects
+    url: '#portfolio'
+    weight: 30
+  - name: Contact
+    url: '#contact'
+    weight: 40
