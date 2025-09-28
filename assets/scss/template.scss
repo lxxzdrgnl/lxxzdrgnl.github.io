@@ -122,12 +122,23 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
+.card-simple .img-hover-zoom {
+  height: 20.5rem; /* Keep user's height */
+  overflow: hidden;
+}
+
 .card-simple .article-banner {
-  height: 20.5rem;
   object-fit: cover;
-  width: 400%;
+  width: 100%; /* Corrected width */
+  height: 100%;
 }
 
 .card-simple {
-  margin-bottom: 1rem
+  margin-bottom: 1rem; /* Keep user's margin */
+}
+
+@media (max-width: 768px) {
+  .card-simple .img-hover-zoom {
+    height: 15rem; /* Adjust height for mobile */
+  }
 }
