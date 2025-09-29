@@ -29,16 +29,17 @@ content:
     - name: All
       tag: '*'
     - name: Back-End
-      tag: ML
+      tag: be
     - name: Front-End
-      tag: CV
-    - name: Youtube
-      tag: NLP
+      tag: fe
+    - name: AI
+      tag: youtube
 
 design:
   columns: '1'
-  view: masonry
+  view: card
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
+  date_format: 2006 Jan
 ---

@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
-subtitle:
+title: Contact
+subtitle: ""
 
 content:
   # Automatically link email and phone or display as text?
@@ -20,7 +20,7 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: pung4905@naver.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false

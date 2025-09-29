@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rheon Lee | 이용재
+title: Yongjae Lee
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,29 +13,22 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Jeonbuk National University
+  url: "https://www.jbnu.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Back-end Development
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Enrolled in IT Information Engineering
+    institution: Jeonbuk National University
+    year: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,17 +37,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 'mailto:pung4905@naver.com'
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/lxxzdrgnl
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lxxzdrgnl
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@AI-coversong
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +59,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Yongjae Lee, a developer who turns curiosity into action. When I have an idea, I don't hesitate to try it out myself, and I enjoy learning new technologies, solving problems, and growing in the process.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This spirit of inquiry has led to various project experiences. Based on my interest in the recently spotlighted voice AI technology, I have experience in producing voice conversion content by directly training the RVC model, and releasing it on YouTube through video editing, recording a high number of 500,000 views. This was an experience that showed my ability to quickly acquire new technologies and create content that draws public interest.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+In addition, to build a solid foundation for web development, I created a bulletin board that implements Google authentication through backend development using Spring Boot, and I can build a simple frontend UI using not only HTML/CSS/JavaScript but also Vue.js.
+
+I am very interested in applying new technologies like AI to actual services, and I aim to become a full-stack developer who creates attractive user experiences on a stable backend foundation. Based on my experience across various fields and my fast learning ability, I will become a developer who creatively solves any problem.
