@@ -30,4 +30,5 @@ author: admin
 {style="font-size: 1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 
-Check out my [resume](/about/) 😍
+ check out my <a href="/about/" style="color: #9c9c9cff; font-weight: bold;">resume</a>😍<br>
+<a href="/uploads/resume.pdf" target="_blank" style="color: #9c9c9cff; font-weight: bold;">Download my resume</a>

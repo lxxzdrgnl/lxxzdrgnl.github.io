@@ -30,4 +30,5 @@ author: admin
 {style="font-size: 1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 
-저의 [이력서](/about/)를 확인해보세요😍
+ 저의 <a href="/about/" style="color: #9c9c9cff; font-weight: bold;">이력서</a>를 확인해보세요😍<br>
+<a href="/uploads/resume.pdf" target="_blank" style="color: #9c9c9cff; font-weight: bold;">이력서 다운로드</a>
