@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yongjae Lee
+title: Rheon Lee | 이용재
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤔
 
 # Organizations/Affiliations
 organizations:
@@ -48,6 +48,12 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@AI-coversong
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/rheon-lee-dev/
+  - icon: discord
+    icon_pack: fab
+    link: http://discord.com/users/lxxzdrgnl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -59,7 +65,7 @@ social:
 #email: ""
 ---
 
-Hello, I'm Yongjae Lee, a developer who turns curiosity into action. When I have an idea, I don't hesitate to try it out myself, and I enjoy learning new technologies, solving problems, and growing in the process.
+Hello, I'm Rheon Lee, a developer who turns curiosity into action. When I have an idea, I don't hesitate to try it out myself, and I enjoy learning new technologies, solving problems, and growing in the process.
 
 This spirit of inquiry has led to various project experiences. Based on my interest in the recently spotlighted voice AI technology, I have experience in producing voice conversion content by directly training the RVC model, and releasing it on YouTube through video editing, recording a high number of 500,000 views. This was an experience that showed my ability to quickly acquire new technologies and create content that draws public interest.
 
