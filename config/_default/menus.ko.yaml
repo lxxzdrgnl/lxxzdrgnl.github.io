@@ -1,0 +1,25 @@
+main:
+  - name: 홈
+    url: /
+    weight: 10
+  - name: 소개
+    identifier: about
+    weight: 20
+  - name: 개요
+    parent: about
+    url: about/
+    weight: 10
+  - name: 경력
+    parent: about
+    url: 'about/#experience'
+    weight: 20
+  - name: 성과
+    parent: about
+    url: 'about/#accomplishments'
+    weight: 30
+  - name: 프로젝트
+    url: '#portfolio'
+    weight: 30
+  - name: 연락처
+    url: 'about/#contact'
+    weight: 40

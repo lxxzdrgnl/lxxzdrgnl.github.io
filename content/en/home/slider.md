@@ -6,7 +6,7 @@ design:
   container: 'fullwidth'
 ---
 
-<h1 style="text-align: center;">좋아하는 앨범</h1>
+<h2 style="text-align: center;">Favorite Albums</h2>
 
 <!-- Link Swiper's CSS -->
 <link
@@ -79,7 +79,7 @@ design:
     observeParents: true,
     loop: true,
     initialSlide: 1, // Start on the second slide
-    slidesPerView: 1.1,
+    slidesPerView: 1.05,
     spaceBetween: 10,
     centeredSlides: false,
     pagination: {
