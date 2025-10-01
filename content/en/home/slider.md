@@ -4,9 +4,10 @@ headless: true
 weight: 0
 design:
   container: 'fullwidth'
+css_class: 'full-width-slider'
 ---
-
-<h2 style="text-align: center;">Favorite Albums</h2>
+<div style="width: 100%; overflow: hidden;">
+<h1 style="text-align: center;">Favorite Albums</h1>
 
 <!-- Link Swiper's CSS -->
 <link
@@ -81,9 +82,9 @@ design:
     observeParents: true,
     loop: true,
     initialSlide: 1, // Start on the second slide
-    slidesPerView: 1.05,
+    slidesPerView: 1,
     spaceBetween: 10,
-    centeredSlides: false,
+    centeredSlides: true,
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
@@ -97,3 +98,4 @@ design:
     },
   });
 </script>
+</div>

@@ -4,8 +4,9 @@ headless: true
 weight: 0
 design:
   container: 'fullwidth'
+css_class: 'full-width-slider'
 ---
-
+<div style="width: 100%; overflow: hidden;">
 <h1 style="text-align: center;">좋아하는 앨범</h1>
 
 <!-- Link Swiper's CSS -->
@@ -81,9 +82,9 @@ design:
     observeParents: true,
     loop: true,
     initialSlide: 1, // Start on the second slide
-    slidesPerView: 1.1,
+    slidesPerView: 1,
     spaceBetween: 10,
-    centeredSlides: false,
+    centeredSlides: true,
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
@@ -97,3 +98,4 @@ design:
     },
   });
 </script>
+</div>
