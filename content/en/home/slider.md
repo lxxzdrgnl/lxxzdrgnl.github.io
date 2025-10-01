@@ -18,6 +18,8 @@ design:
 .swiper-container {
   width: 100%;
   height: 50vh; /* Default height for larger screens */
+  --swiper-navigation-color: #34495e; /* Set arrow color to theme's menu text color */
+  --swiper-pagination-color: #34495e; /* Set pagination color to theme's menu text color */
 }
 
 /* 모바일 */
@@ -91,7 +93,7 @@ design:
       prevEl: '.swiper-button-prev',
     },
     autoplay: {
-      delay: 1000,
+      delay: 1500,
     },
   });
 </script>
