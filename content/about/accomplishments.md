@@ -27,10 +27,12 @@ item:
     date_end: '2025-03-12'
     date_start: '2024-06-12'
     description: 'AI를 활용한 영상 기획 및 제작'
-    organization: 'uploads/sorisori.png'
-    organization_url: https://www.instagram.com/sorisori.ai/
+    organization: '소리소리AI'
+    organization_url: https://www.sorisori.ai/
     title: 소리소리AI 영상 편집자
-    url: ''
+    url: 'https://www.instagram.com/sorisori.ai/'
+    icon: file
+    pack: icons
 
 design:
   columns: '1'

@@ -25,7 +25,7 @@ experience:
   - title: 코알라 웹사이트 개발
     company: Coala
     company_url: ''
-    company_logo: org-x
+    company_logo: coal
     location: JBNU
     date_start: '2025-09-02'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Alps 알고리즘 스터디
     company: Alps
     company_url: ''
-    company_logo: org-gc
+    company_logo: alps
     location: JBNU
     date_start: '2024-03-02'
     date_end: '2024-07-24'

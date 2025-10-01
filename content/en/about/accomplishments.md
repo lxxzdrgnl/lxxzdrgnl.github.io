@@ -28,10 +28,10 @@ item:
     date_start: '2024-06-12'
     description: 'Video planning and production using AI'
     organization: 'uploads/sorisori.png'
-    organization_url: https://www.instagram.com/sorisori.ai/
+    organization_url: https://www.sorisori.ai/
     title: SorisoriAI Video Editor
-    url: ''
-
+    url: https://www.instagram.com/sorisori.ai/'
+    
 design:
   columns: '1'
 ---
