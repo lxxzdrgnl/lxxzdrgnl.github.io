@@ -27,7 +27,7 @@ item:
     date_end: '2025-03-12'
     date_start: '2024-06-12'
     description: 'Video planning and production using AI'
-    organization: 'uploads/sorisori.png'
+    organization: 'sorisori'
     organization_url: https://www.sorisori.ai/
     title: SorisoriAI Video Editor
     url: https://www.instagram.com/sorisori.ai/'
