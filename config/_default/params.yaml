@@ -21,6 +21,7 @@ marketing:
     description: '호기심을 실행으로 옮기는 개발자 이용재입니다. AI, 백엔드, 프론트엔드 등 분야를 가리지 않고 도전하며 기술의 경계 없이 문제를 해결하는 것을 즐깁니다.'
     twitter: 'GetResearchDev'
   analytics:
+    enable: false
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
