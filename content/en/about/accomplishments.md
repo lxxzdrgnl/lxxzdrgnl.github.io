@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -27,11 +27,13 @@ item:
     date_end: '2025-03-12'
     date_start: '2024-06-12'
     description: 'Video planning and production using AI'
-    organization: 'sorisori'
+    organization: 'SorisoriAI'
     organization_url: https://www.sorisori.ai/
     title: SorisoriAI Video Editor
-    url: https://www.instagram.com/sorisori.ai/'
-    
+    url: 'https://www.instagram.com/sorisori.ai/'
+    icon: file
+    pack: icons
+
 design:
   columns: '1'
 ---

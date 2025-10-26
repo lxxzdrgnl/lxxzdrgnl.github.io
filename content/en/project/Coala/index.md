@@ -4,5 +4,5 @@ summary: (In progress) MSA homepage production including bulletin board, member 
 tags:
   - be
 date: 2025-09-25
-external_link: https://www.youtube.com/watch?v=QxKxegbUzS4
+external_link: https://coala.jbnu.ac.kr/
 ---

@@ -17,6 +17,38 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+.typing-container {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.typing-text {
+  display: inline-block;
+  overflow: hidden; 
+  border-right: .15em solid orange; 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em; 
+  font-weight: bold;
+  animation: 
+    typing 2s steps(20, end),
+    blink-caret .75s step-end infinite;
+}
+
+</style>
 <div class="skill-badges">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -26,9 +58,15 @@ author: admin
 </div>
 <br>
 
-👋 안녕하세요, 호기심을 실행으로 옮기는 개발자 이용재입니다. AI, 백엔드, 프론트엔드 등 분야를 가리지 않고 도전하며, 기술의 경계 없이 문제를 해결하는 것을 즐깁니다.
-{style="font-size: 1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+<div style="text-align: center;">
+  <p style="font-size: 1.2rem;">👋 안녕하세요, <span class="typing-container"><span class="typing-text">호기심을 실행으로 옮기는</span></span> 개발자 이용재입니다.</p>
+  <p style="font-size: 1rem;">AI, 백엔드, 프론트엔드 등 분야를 가리지 않고 도전하며, 기술의 경계 없이 문제를 해결하는 것을 즐깁니다.</p>
+</div>
 
+<div style="margin-top: 10px; padding: 10px; border-radius: 5px;">
+<i class="fas fa-envelope"></i> <a href="mailto:pung4905@naver.com">pung4905@naver.com</a>
+</div>
 
  저의 <a href="/about/" style="color: #9c9c9cff; font-weight: bold;">이력서</a>를 확인해보세요😍<br>
-<a href="/uploads/resume.pdf" target="_blank" style="color: #9c9c9cff; font-weight: bold;">이력서 다운로드</a>
+<a href="/uploads/resume.pdf" target="_blank" class="btn btn-primary"><i class="fas fa-download"></i> 이력서 다운로드</a>
+
