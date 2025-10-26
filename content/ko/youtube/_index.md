@@ -8,6 +8,7 @@ widget: youtube
 weight: 10
 
 title: YouTube
+subtitle: 저의 유튜브 활동을 대표하는 영상들입니다.
 
 videos:
   - id: https://youtu.be/QxKxegbUzS4
