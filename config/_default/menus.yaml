@@ -25,6 +25,9 @@ main:
   - name: Projects
     url: '#portfolio'
     weight: 30
+  - name: YouTube
+    url: youtube/
+    weight: 40
   - name: Contact
     url: 'about/#contact'
-    weight: 40
+    weight: 50

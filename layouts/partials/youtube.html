@@ -1,0 +1,35 @@
+<div style="max-width: 1200px; margin: auto; padding: 20px;">
+<h1 style="text-align: center; margin-bottom: 20px;">{{ .Title }}</h1>
+{{ with .Params.videos }}
+<style>
+.youtube-card {
+  background-color: rgb(247, 250, 252);
+  color: #34495e;
+  transition: transform .2s;
+}
+.youtube-card:hover {
+  transform: scale(1.05);
+}
+.dark .youtube-card {
+  background-color: rgb(30, 30, 30);
+  color: #eeeeee;
+}
+.youtube-title {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+</style>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  {{ range . }}
+    <div class="youtube-card" style="flex: 1 1 100%; min-width: 300px; margin: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 15px; overflow: hidden;">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe src="https://www.youtube.com/embed/{{ replace .id "https://youtu.be/" "" }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen title="YouTube Video"></iframe>
+      </div>
+      <div style="padding: 15px; text-align: center;">
+        <h4 class="youtube-title">{{ .title }}</h4>
+      </div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
+</div>

@@ -20,6 +20,9 @@ main:
   - name: 프로젝트
     url: '#portfolio'
     weight: 30
+  - name: 유튜브
+    url: youtube/
+    weight: 40
   - name: 연락하기
     url: 'about/#contact'
-    weight: 40
+    weight: 50

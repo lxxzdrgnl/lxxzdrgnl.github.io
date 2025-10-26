@@ -5,6 +5,7 @@
 # Default language
 ko:
   languageCode: ko
+  contentDir: content/ko
   params:
     date_format: '2006년 1월'
 
